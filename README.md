@@ -4,7 +4,7 @@
 
 #### 🎮 Technologies
 <li> Reactjs</li>
-<li>Redux-thunk </li>
+<li>Redux </li>
 <li>Bootstrap </li>
 <li>SCSS</li>
 <li>Firebase(Authentication, Firestore)</li>
@@ -15,13 +15,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/long2707/food-app.git
+  git clone https://github.com/Peanut178/food-app
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd food-app
 ```
 
 Install dependencies
